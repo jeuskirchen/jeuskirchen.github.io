@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Main inspiration: [lilianweng.github.io](https://lilianweng.github.io).
+Main inspirations: [lilianweng.github.io](https://lilianweng.github.io), [karpathy.github.io](http://karpathy.github.io).
 
 You can use the [editor on GitHub](https://github.com/jeuskirchen/jeuskirchen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
