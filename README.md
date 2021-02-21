@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-Main inspirations: [lilianweng.github.io](https://lilianweng.github.io), [karpathy.github.io](http://karpathy.github.io), [colah.github.io](http://colah.github.io), [sylvaindurand.org](https://sylvaindurand.org/).
+Main inspirations: 
+- [lilianweng.github.io](https://lilianweng.github.io)
+- [karpathy.github.io](http://karpathy.github.io)
+- [colah.github.io](http://colah.github.io)
+- [sylvaindurand.org](https://sylvaindurand.org/)
+- [atcold.github.io](https://atcold.github.io/)
 
 You can use the [editor on GitHub](https://github.com/jeuskirchen/jeuskirchen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
