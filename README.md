@@ -18,3 +18,9 @@
 
 - [Predictive coding networks](pdfs/predictive-coding.pdf)
 - [Search gradients and policy gradients](pdfs/search-gradients.pdf)
+
+---
+
+All slides and research notes are licensed under the Creative Commons Attribution-ShareAlike (CC BY-SA 4.0) license.
+
+© 2025 Janik Euskirchen
